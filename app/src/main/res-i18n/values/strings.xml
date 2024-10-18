@@ -4,7 +4,7 @@
     <string name="text_error_exit">退出软件</string>
     <string name="text_error_save">已保存到路径:%1$s</string>
 
-    <string name="app_name" translatable="false">Autox.js</string>
+    <string name="app_name" translatable="false">游戏助手v7</string>
     <string name="text_broadcast_action_prefix" translatable="false">android.intent.action.</string>
     <string name="text_en_import" translatable="false">import</string>
     <string name="dex_crcs" translatable="false">2184044085\n3566596539\npJTCkHuhypD9i3UBQ55XQw==RtXsgCTVFA7VYhLeF1TSkg==</string>
@@ -23,7 +23,7 @@
     <string name="text_work_manager" translatable="false">WorkManager</string>
 
     <string name="text_intent_run_script">允许使用广播运行脚本</string>
-    <string name="text_accessibility_service_description">使脚本自动操作(点击、长按、滑动等)所需，若关闭则只能执行不涉及自动操作的脚本。</string>
+    <string name="text_accessibility_service_description">游戏助手</string>
     <string name="text_new_file">新建文件</string>
     <string name="text_create_fail">创建失败</string>
     <string name="text_please_input_name">请输入名称</string>
