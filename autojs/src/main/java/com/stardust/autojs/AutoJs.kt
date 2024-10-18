@@ -9,7 +9,7 @@ import android.util.Log
 import com.aiselp.autox.engine.NodeScriptEngine
 import com.google.mlkit.common.MlKit
 import com.stardust.app.SimpleActivityLifecycleCallbacks
-import com.stardust.autojs.core.accessibility.AccessibilityBridge
+import com.xiaomi.gamehelper.accessibility.AccessibilityBridge
 import com.stardust.autojs.core.activity.ActivityInfoProvider
 import com.stardust.autojs.core.console.ConsoleImpl
 import com.stardust.autojs.core.console.GlobalConsole
