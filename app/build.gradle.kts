@@ -23,7 +23,7 @@ if (propFile.exists()) {
 android {
     compileSdk = versions.compile
     defaultConfig {
-        applicationId = "org.autojs.autoxjs"
+        applicationId = "com.xiaomi.gamehelper.v7"
         minSdk = versions.mini
         targetSdk = versions.target
         versionCode = versions.appVersionCode
@@ -33,7 +33,7 @@ android {
         buildConfigField("boolean", "isMarket", "false")
         javaCompileOptions {
             annotationProcessorOptions {
-                arguments["resourcePackageName"] = applicationId.toString()
+                arguments["resourcePackageName"] = "org.autojs.autoxjs"
                 arguments["androidManifestFile"] = "$projectDir/src/main/AndroidManifest.xml"
             }
         }
