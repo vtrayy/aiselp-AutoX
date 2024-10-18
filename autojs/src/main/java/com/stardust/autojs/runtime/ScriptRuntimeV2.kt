@@ -1,7 +1,7 @@
 package com.stardust.autojs.runtime
 
 import com.stardust.autojs.ScriptEngineService
-import com.stardust.autojs.core.accessibility.AccessibilityBridge
+import com.xiaomi.gamehelper.accessibility.AccessibilityBridge
 import com.stardust.autojs.core.console.ConsoleImpl
 import com.stardust.autojs.core.image.capture.ScreenCaptureRequester
 import com.stardust.autojs.core.looper.Loopers
