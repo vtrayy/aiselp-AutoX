@@ -13,7 +13,7 @@ import androidx.annotation.RequiresApi;
 import android.view.KeyEvent;
 
 import com.stardust.autojs.R;
-import com.stardust.autojs.core.accessibility.AccessibilityBridge;
+import com.xiaomi.gamehelper.accessibility.AccessibilityBridge;
 import com.stardust.autojs.core.boardcast.BroadcastEmitter;
 import com.stardust.autojs.core.eventloop.EventEmitter;
 import com.stardust.autojs.core.looper.Loopers;
