@@ -8,7 +8,7 @@ import com.stardust.app.GlobalAppContext;
 import org.autojs.autojs.Pref;
 import org.autojs.autoxjs.R;
 
-import com.stardust.autojs.core.accessibility.AccessibilityService;
+import com.xiaomi.gamehelper.accessibility.AccessibilityService;
 import com.stardust.autojs.core.util.ProcessShell;
 import com.stardust.view.accessibility.AccessibilityServiceUtils;
 
