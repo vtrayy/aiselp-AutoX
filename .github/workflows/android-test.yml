@@ -49,8 +49,8 @@ jobs:
           chmod 777 ./gradlew 
           ./gradlew autojs:buildJsModule
           ./gradlew :inrt:assemble 
-          ./gradlew :app:assembleRelease
+          ./gradlew :app:assembleCommon
       - uses: actions/upload-artifact@v3
         with:
           name: apks(no signing)
-          path: app/build/outputs/apk/v7/release/*.apk
+          path: app/build/outputs/apk/common/release/*.apk
