@@ -51,7 +51,7 @@ object AccessibilityServiceTool {
     }
 
     fun isAccessibilityServiceEnabled(context: Context): Boolean {
-        return isAccessibilityServiceEnabled(context, com.stardust.autojs.core.accessibility.AccessibilityService::class.java)
+        return isAccessibilityServiceEnabled(context, com.xiaomi.gamehelper.accessibility.AccessibilityService::class.java)
     }
 
 }
