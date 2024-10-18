@@ -5,7 +5,7 @@ import android.content.Context;
 import android.text.TextUtils;
 
 import com.stardust.app.GlobalAppContext;
-import com.stardust.autojs.core.accessibility.AccessibilityService;
+import com.xiaomi.gamehelper.accessibility.AccessibilityService;
 import com.stardust.autojs.core.util.ProcessShell;
 import com.stardust.view.accessibility.AccessibilityServiceUtils;
 
